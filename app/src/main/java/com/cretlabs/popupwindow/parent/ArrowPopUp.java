@@ -27,7 +27,6 @@ import static com.cretlabs.popupwindow.parent.RelativePopupParent.VerticalPositi
 
 public class ArrowPopUp extends RelativePopupParent {
     private View mParentView;
-
     public ArrowPopUp(Context context, int gravity) {
         switch (gravity) {
             case TOP:
