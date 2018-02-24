@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="colorAccent2">#FF4081</color>
+
+    <color name="colorSkyBlue">#4096fe</color>
+    <color name="colorBlueDark">#4185a6</color>
+    <color name="colorBlueDarkTrans">#ce4185a6</color>
+    <color name="colorBlueLight">#3899bb</color>
+    <color name="colorGreenLight">#58ef20</color>
+    <color name="colorGreenDark">#53af46</color>
+    <color name="colorYellow">#e3b723</color>
+    <color name="colorYellowDark">#e2b92e</color>
+    <color name="transparent">#0062c8ff</color>
+    <color name="colorBlueLevel1">#6eb2dc</color>
+    <color name="colorBlueLevel2">#599ccd</color>
+    <color name="colorBlueLevel3">#4a86b2</color>
+    <color name="colorBlueLevel4">#3b7695</color>
+    <color name="colorBlueLevel5">#2d5f78</color>
+
+    <color name="colorRed">#e43c1d</color>
+    <color name="colorRedLight">#e84929</color>
+    <color name="colorRedDark">#dd492b</color>
+    <color name="colorWhite">#fdfdfe</color>
+    <color name="colorWhiteTrans">#e6f2f2f2</color>
+    <color name="colorGray">#878787</color>
+    <color name="colorGrayDark">#ebebeb</color>
+    <color name="colorGrayTrans">#e6787677</color>
+    <color name="colorGrayTransToolbar">#945f7275</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackTrans">#7b000000</color>
+
+    <color name="icons">#FFFFFF</color>
+    <color name="alertTitleColor">#6bb8e6</color>
+    <color name="primary_light_bg">#33ffffff</color>
+    <color name="divider">#807bb5cd</color>
+</resources>
